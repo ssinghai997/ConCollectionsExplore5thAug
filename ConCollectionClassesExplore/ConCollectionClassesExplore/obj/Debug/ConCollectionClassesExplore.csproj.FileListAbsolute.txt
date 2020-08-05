@@ -1,0 +1,7 @@
+D:\DotNet-training\ConCollectionClassesExplore\ConCollectionClassesExplore\bin\Debug\ConCollectionClassesExplore.exe.config
+D:\DotNet-training\ConCollectionClassesExplore\ConCollectionClassesExplore\bin\Debug\ConCollectionClassesExplore.exe
+D:\DotNet-training\ConCollectionClassesExplore\ConCollectionClassesExplore\bin\Debug\ConCollectionClassesExplore.pdb
+D:\DotNet-training\ConCollectionClassesExplore\ConCollectionClassesExplore\obj\Debug\ConCollectionClassesExplore.csprojAssemblyReference.cache
+D:\DotNet-training\ConCollectionClassesExplore\ConCollectionClassesExplore\obj\Debug\ConCollectionClassesExplore.csproj.CoreCompileInputs.cache
+D:\DotNet-training\ConCollectionClassesExplore\ConCollectionClassesExplore\obj\Debug\ConCollectionClassesExplore.exe
+D:\DotNet-training\ConCollectionClassesExplore\ConCollectionClassesExplore\obj\Debug\ConCollectionClassesExplore.pdb
